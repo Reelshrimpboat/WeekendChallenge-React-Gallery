@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 70px;
+  padding: 20px;
+  color: white;
+}
+
+.galleryItem{
+  display: inline-block;
+  margin: 10px 5px;
+}
+
+.descriptionBox{
+  vertical-align: center;
+  width: 150px;
+}
+
+.likeDisplay{
+
+}
+
+.image{
+  max-width: 150px;
+}
+
+.likeCount{
+  display: inline;
+  margin: 0px 10px;
+}
+
+.likeButton{
+  display: inline;
+  margin: 0px 10px;
+}
